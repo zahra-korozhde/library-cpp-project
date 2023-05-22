@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1674456468 source:d:\project\finnally project\main.cpp
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
+1674462782 source:d:\term1\project\finnally project\main.cpp
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
